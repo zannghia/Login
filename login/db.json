@@ -3,12 +3,14 @@
         {
             "id": 1,
             "email": "admin@gmail.com",
-            "password": "123456"
+            "password": "123456",
+            "token": "token-admin-abcdef"
         },
         {
             "id": 2,
             "email": "user@gmail.com",
-            "password": "abcdef"
+            "password": "abcdef",
+            "token": "token-user-abcdef"
         }
     ]
 }
